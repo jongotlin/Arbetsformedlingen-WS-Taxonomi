@@ -1,0 +1,19 @@
+{
+    "name": "jongotlin/arbetsformedlingen-ws-taxonomi",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jon Gotlin",
+            "email": "jon@jon.se"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "wsdl2phpgenerator/wsdl2phpgenerator": "^3.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "ArbetsformedlingenWsTaxonomi\\": "src/"
+        }
+    }
+}
